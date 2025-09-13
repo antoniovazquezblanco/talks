@@ -1,10 +1,9 @@
 # Talks, courses and publications
 
-
-
 | Date          | Event                                 | Format    | Lang  | Title                                                             | Materials |
 |---------------|---------------------------------------|-----------|-------|-------------------------------------------------------------------|-----------|
-| 2025/04/19    | HwHckEs                               | Training  | ES    | Análisis de firmwares & reverse engineering                       | [[Event]](https://hardwarehacking.es/) [[PDF]](2025/2025_HwHckEs_Analisis_de_firmwares.pdf) [[PDF]](2025/2025_HwHckEs_Reversing.pdf) [[Firmwares]](2025/2025_HwHckEs_Firmwares.zip)  |
+| 2025/09/13    | HwHckEs Barcelona                     | Training  | ES    | Análisis de firmwares & reverse engineering                       | [[Event]](https://hardwarehacking.es/) [[PDF]](2025/2025_HwHckEs_Analisis_de_firmwares.pdf) [[PDF]](2025/2025_HwHckEs_Reversing.pdf) [[Firmwares]](2025/2025_HwHckEs_Firmwares.zip)  |
+| 2025/04/19    | HwHckEs Madrid                        | Training  | ES    | Análisis de firmwares & reverse engineering                       | [[Event]](https://hardwarehacking.es/) [[PDF]](2025/2025_HwHckEs_Analisis_de_firmwares.pdf) [[PDF]](2025/2025_HwHckEs_Reversing.pdf) [[Firmwares]](2025/2025_HwHckEs_Firmwares.zip)  |
 | 2025/03/13    | CECOCIB USC                           | Talk      | ES    | Ciberseguridad en dispositivos IoT                                | [[Event]](https://cecocib.es/seminarios) [[PDF]](2025/2025_USC_CECOCIB_IoT.pdf) [[Video]](https://www.youtube.com/watch?v=iMeDxwYtm_M) |
 | 2025/03/06    | RootedCON                             | Talk      | ES    | Attacking Bluetooth the easy way                                  | [[Event]](https://www.rootedcon.com/archive/rooted2025/) [[PDF]](2025/2025_RootedCon_BluetoothTools.pdf) [[PoC]](https://github.com/antoniovazquezblanco/usbbluetooth) [[PoC]](https://github.com/antoniovazquezblanco/scapy-usbbluetooth) [[PoC]](https://github.com/TarlogicSecurity/BluetoothExamplesAndDemos) [[Blog]](https://www.tarlogic.com/es/blog/comandos-hci-ocultos-en-esp32/)    |
 | 2024/09/19    | Pwn3d! Con                            | Talk      | ES    | Bluetooth, ese gran olvidado                                      | [[Event]](https://pwnedcon.com/) [[PDF]](2024/2024_Pwn3d_BSAM.pdf) [[PoC]](https://github.com/TarlogicSecurity/BlueSpy) [[Video]](https://www.youtube.com/watch?v=NdrbEkqR_kA) |
